@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: url('img/244417-Chihuahua.webp') no-repeat center center fixed;
+    background-size: cover;
+    font-family: sans-serif;
+  }
+
+  /* Opcional: contenido centrado */
+  .contenido {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
+    font-size: 2em;
+  }
+
